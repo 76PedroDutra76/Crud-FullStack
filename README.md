@@ -24,3 +24,15 @@ developing greater practice with javascript, react and their infinite libraries.
   <li><code>$ npm install</code> or <code>$ yarn install</code></li>
   <li><code>$ npm start</code> or <code>yarn start</code></li>
 </ol>
+
+
+<h2>Libraries</h2>
+
+<h3>Front-End/Client</h3>
+
+styled-components axios react-icons react-toastify
+<ul>
+  <li><code>styled-components</code></li>
+  <li></li>
+  <li></li>
+</ul>
