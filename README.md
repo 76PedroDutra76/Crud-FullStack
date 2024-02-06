@@ -8,8 +8,19 @@ developing greater practice with javascript, react and their infinite libraries.
 
 <h2>Installation:</h2>
 
+<h3>Front-End/Client</h3>
+
 <ol>
-  <li><code>cd Client</code></li>
-  <li><code>npm install</code> or <code>yarn install</code></li>
-  <li><code>npm start</code> or <code>yarn start</code></li>
+  <li><code>$ cd Client</code></li>
+  <li><code>$ npm install</code> or <code>$ yarn install</code></li>
+  <li><code>$ npm start</code> or <code>$ yarn start</code></li>
+</ol>
+
+
+<h3>Back-End/Server</h3>
+
+<ol>
+  <li><code>$ cd Server</code></li>
+  <li><code>$ npm install</code> or <code>$ yarn install</code></li>
+  <li><code>$ npm start</code> or <code>yarn start</code></li>
 </ol>
