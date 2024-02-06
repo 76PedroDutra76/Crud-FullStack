@@ -26,7 +26,7 @@ developing greater practice with javascript, react and their infinite libraries.
 </ol>
 
 
-<h2>Libraries</h2>
+<h2>Libraries:</h2>
 
 <h3>Front-End/Client</h3>
 
