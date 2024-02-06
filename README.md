@@ -1,3 +1,6 @@
 # Crud_Full-Stack
 
-<img src="Client/src/toReadme/crudVideogif.gif">
+<video autoplay loop muted playsinline>
+  <source src="Client/src/toReadme/crudVideogif.gif" type="video/gif">
+  Your browser does not support the video tag.
+</video>
