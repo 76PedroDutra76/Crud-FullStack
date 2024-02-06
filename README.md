@@ -5,4 +5,8 @@
 
 <h2>Installation/Instalação:</h2>
 
-1- cd Client
+<ol>
+  <li><code>cd Client</code></li>
+  <li><code>npm install</code> "or" <code>yarn install</code></li>
+  <li></li>
+</ol>
