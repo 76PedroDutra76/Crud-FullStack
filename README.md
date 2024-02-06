@@ -3,5 +3,5 @@
 <img src="Client/src/toReadme/crudVideogif.gif">
 
 
-Installation/Instalação:
+<h2>Installation/Instalação:</h2>
 ---------------------------------------------------------------------------------------------------------------------------
