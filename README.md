@@ -1,3 +1,3 @@
 # Crud_Full-Stack
 
-<igm src="Client/src/toReadme/crudVideogif.gif">
+<img src="Client/src/toReadme/crudVideogif.gif">
