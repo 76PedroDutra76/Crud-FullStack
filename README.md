@@ -32,9 +32,9 @@ developing greater practice with javascript, react and their infinite libraries.
 
 <ul>
   <li><code>styled-components</code></li>
-  <li>axios</li>
-  <li>react-icons</li>(Optional)
-  <li>react-toastify</li>(Optional)
+  <li><code>axios</code></li>
+  <li><code>react-icons</code>(Optional)</li>
+  <li><code>react-toastify</code>(Optional)</li>
 </ul>
 
 <h3>Back-End/Server</h3>
