@@ -30,9 +30,18 @@ developing greater practice with javascript, react and their infinite libraries.
 
 <h3>Front-End/Client</h3>
 
-styled-components axios react-icons react-toastify
 <ul>
   <li><code>styled-components</code></li>
-  <li></li>
-  <li></li>
+  <li>axios</li>
+  <li>react-icons</li>(Optional)
+  <li>react-toastify</li>(Optional)
+</ul>
+
+<h3>Back-End/Server</h3>
+
+<ul>
+  <li><code>Nodemon</code></li>
+  <li><code>Express</code></li>
+  <li><code>Cors</code></li>
+  <li><code>MySql2</code></li>
 </ul>
